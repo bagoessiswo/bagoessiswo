@@ -1,6 +1,0 @@
----
-title: about me
-date: 2019-09-25T17:00:00Z
-description: lalalalala
-
----
