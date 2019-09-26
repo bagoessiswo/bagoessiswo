@@ -1,6 +1,6 @@
 ---
-label: Hello
-hide_body: false
+label: Post Content
+hide_body: true
 fields:
 - type: text
   name: title
