@@ -11,3 +11,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- ini-baru-loh.md
