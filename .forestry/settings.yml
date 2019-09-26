@@ -5,8 +5,8 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: ''
-  label: New Sidecar
+  path: content
+  label: New Page
   create: all
   match: "**/*"
 upload_dir: uploads
