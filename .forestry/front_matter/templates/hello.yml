@@ -11,5 +11,14 @@ fields:
 - type: text
   name: description
   label: description
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
 pages:
 - content/about-me.md
